@@ -1,10 +1,10 @@
-# World Cup 2018 Simulator
+# World Cup 2022 Simulator
 
 **NOTE** This repository is not maintained, issues will not be accepted and changes will not be made
-Last known working at footballsimulationengine v2.1.2
+Last known working at footballsimulationengine v4.0.0
 ---
 ## Overview
-This project is the use of [footballsimulationengine](https://www.npmjs.com/package/footballsimulationengine) node module available on npmjs for the simulation of worldcup 2018 matches for teams and players.
+This project is the use of [footballsimulationengine](https://www.npmjs.com/package/footballsimulationengine) node module available on npmjs for the simulation of worldcup 2022 matches for teams and players.
 
 ---
 ## Install
@@ -24,8 +24,8 @@ This project is the use of [footballsimulationengine](https://www.npmjs.com/pack
 5. a) Select 'Quick Match' for non visual simulation
 5. b) Select 'Watch Match' to see the simulation in action
 ---
-## Player and Team Information
-Available at: ``http://localhost:1442/info.html``
+## World Cup 2022 Results
+You can write your simulated results in WC22.html
 
 ## Blog
 [Read more here](https://aidensgallyvanting.blogspot.com/2018/06/russia-world-cup-2018-simulator.html)

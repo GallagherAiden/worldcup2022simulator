@@ -1,0 +1,447 @@
+{
+    "name": "netherlands",
+    "players": [
+        {
+            "position": "GK",
+            "name": "Justin Bijlow",
+            "rating": 44,
+            "skill": {
+                "passing": 29,
+                "shooting": 22,
+                "tackling": 13,
+                "saving": 78,
+                "agility": 56,
+                "strength": 70,
+                "penalty_taking": 16,
+                "jumping": 255
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Andries Noppert",
+            "rating": 39,
+            "skill": {
+                "passing": 24,
+                "shooting": 28,
+                "tackling": 14,
+                "saving": 67,
+                "agility": 40,
+                "strength": 66,
+                "penalty_taking": 19,
+                "jumping": 269
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Remko Pasveer",
+            "rating": 44,
+            "skill": {
+                "passing": 34,
+                "shooting": 27,
+                "tackling": 19,
+                "saving": 76,
+                "agility": 42,
+                "strength": 70,
+                "penalty_taking": 28,
+                "jumping": 252
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CB",
+            "name": "Nathan Aké",
+            "rating": 70,
+            "skill": {
+                "passing": 70,
+                "shooting": 57,
+                "tackling": 80,
+                "saving": 10,
+                "agility": 67,
+                "strength": 76,
+                "penalty_taking": 53,
+                "jumping": 269
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Daley Blind",
+            "rating": 74,
+            "skill": {
+                "passing": 83,
+                "shooting": 69,
+                "tackling": 80,
+                "saving": 11,
+                "agility": 71,
+                "strength": 71,
+                "penalty_taking": 54,
+                "jumping": 257
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Virgil van Dijk",
+            "rating": 75,
+            "skill": {
+                "passing": 72,
+                "shooting": 64,
+                "tackling": 89,
+                "saving": 11,
+                "agility": 61,
+                "strength": 93,
+                "penalty_taking": 62,
+                "jumping": 281
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RM",
+            "name": "Denzel Dumfries",
+            "rating": 74,
+            "skill": {
+                "passing": 74,
+                "shooting": 64,
+                "tackling": 78,
+                "saving": 10,
+                "agility": 69,
+                "strength": 89,
+                "penalty_taking": 48,
+                "jumping": 278
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Jeremie Frimpong",
+            "rating": 71,
+            "skill": {
+                "passing": 72,
+                "shooting": 58,
+                "tackling": 75,
+                "saving": 10,
+                "agility": 91,
+                "strength": 61,
+                "penalty_taking": 39,
+                "jumping": 243
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCB",
+            "name": "Matthijs de Ligt",
+            "rating": 72,
+            "skill": {
+                "passing": 64,
+                "shooting": 61,
+                "tackling": 85,
+                "saving": 11,
+                "agility": 60,
+                "strength": 93,
+                "penalty_taking": 40,
+                "jumping": 282
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LB",
+            "name": "Tyrell Malacia",
+            "rating": 71,
+            "skill": {
+                "passing": 67,
+                "shooting": 55,
+                "tackling": 81,
+                "saving": 9,
+                "agility": 84,
+                "strength": 72,
+                "penalty_taking": 46,
+                "jumping": 255
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCB",
+            "name": "Jurriën Timber",
+            "rating": 70,
+            "skill": {
+                "passing": 70,
+                "shooting": 47,
+                "tackling": 80,
+                "saving": 9,
+                "agility": 73,
+                "strength": 82,
+                "penalty_taking": 42,
+                "jumping": 264
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CB",
+            "name": "Stefan de Vrij",
+            "rating": 67,
+            "skill": {
+                "passing": 65,
+                "shooting": 48,
+                "tackling": 86,
+                "saving": 10,
+                "agility": 61,
+                "strength": 79,
+                "penalty_taking": 41,
+                "jumping": 269
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Steven Berghuis",
+            "rating": 69,
+            "skill": {
+                "passing": 83,
+                "shooting": 83,
+                "tackling": 33,
+                "saving": 9,
+                "agility": 84,
+                "strength": 63,
+                "penalty_taking": 83,
+                "jumping": 237
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCM",
+            "name": "Frenkie de Jong",
+            "rating": 79,
+            "skill": {
+                "passing": 86,
+                "shooting": 72,
+                "tackling": 76,
+                "saving": 9,
+                "agility": 87,
+                "strength": 74,
+                "penalty_taking": 53,
+                "jumping": 256
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Davy Klaassen",
+            "rating": 71,
+            "skill": {
+                "passing": 74,
+                "shooting": 74,
+                "tackling": 70,
+                "saving": 11,
+                "agility": 65,
+                "strength": 73,
+                "penalty_taking": 76,
+                "jumping": 249
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCM",
+            "name": "Teun Koopmeiners",
+            "rating": 73,
+            "skill": {
+                "passing": 81,
+                "shooting": 72,
+                "tackling": 75,
+                "saving": 11,
+                "agility": 66,
+                "strength": 75,
+                "penalty_taking": 85,
+                "jumping": 261
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCM",
+            "name": "Marten de Roon",
+            "rating": 72,
+            "skill": {
+                "passing": 72,
+                "shooting": 68,
+                "tackling": 81,
+                "saving": 12,
+                "agility": 61,
+                "strength": 81,
+                "penalty_taking": 80,
+                "jumping": 265
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Xavi Simons",
+            "rating": 66,
+            "skill": {
+                "passing": 68,
+                "shooting": 65,
+                "tackling": 56,
+                "saving": 8,
+                "agility": 86,
+                "strength": 58,
+                "penalty_taking": 63,
+                "jumping": 221
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCM",
+            "name": "Kenneth Taylor",
+            "rating": 69,
+            "skill": {
+                "passing": 76,
+                "shooting": 72,
+                "tackling": 60,
+                "saving": 8,
+                "agility": 74,
+                "strength": 65,
+                "penalty_taking": 56,
+                "jumping": 231
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LW",
+            "name": "Steven Bergwijn",
+            "rating": 68,
+            "skill": {
+                "passing": 73,
+                "shooting": 79,
+                "tackling": 34,
+                "saving": 12,
+                "agility": 79,
+                "strength": 75,
+                "penalty_taking": 68,
+                "jumping": 247
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LW",
+            "name": "Memphis Depay",
+            "rating": 70,
+            "skill": {
+                "passing": 80,
+                "shooting": 84,
+                "tackling": 25,
+                "saving": 10,
+                "agility": 80,
+                "strength": 83,
+                "penalty_taking": 76,
+                "jumping": 245
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LW",
+            "name": "Cody Gakpo",
+            "rating": 69,
+            "skill": {
+                "passing": 75,
+                "shooting": 82,
+                "tackling": 33,
+                "saving": 9,
+                "agility": 81,
+                "strength": 77,
+                "penalty_taking": 68,
+                "jumping": 264
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Vincent Janssen",
+            "rating": 63,
+            "skill": {
+                "passing": 55,
+                "shooting": 66,
+                "tackling": 37,
+                "saving": 12,
+                "agility": 69,
+                "strength": 88,
+                "penalty_taking": 75,
+                "jumping": 255
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Luuk de Jong",
+            "rating": 64,
+            "skill": {
+                "passing": 69,
+                "shooting": 74,
+                "tackling": 40,
+                "saving": 10,
+                "agility": 52,
+                "strength": 87,
+                "penalty_taking": 67,
+                "jumping": 278
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LS",
+            "name": "Noa Lang",
+            "rating": 67,
+            "skill": {
+                "passing": 70,
+                "shooting": 71,
+                "tackling": 47,
+                "saving": 11,
+                "agility": 86,
+                "strength": 63,
+                "penalty_taking": 71,
+                "jumping": 246
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Wout Weghorst",
+            "rating": 65,
+            "skill": {
+                "passing": 56,
+                "shooting": 68,
+                "tackling": 50,
+                "saving": 12,
+                "agility": 62,
+                "strength": 89,
+                "penalty_taking": 71,
+                "jumping": 276
+            },
+            "fitness": 100,
+            "injured": false
+        }
+    ]
+}

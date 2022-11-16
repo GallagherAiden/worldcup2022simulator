@@ -1,0 +1,447 @@
+{
+    "name": "croatia",
+    "players": [
+        {
+            "position": "GK",
+            "name": "Dominik Livaković",
+            "rating": 49,
+            "skill": {
+                "passing": 38,
+                "shooting": 21,
+                "tackling": 20,
+                "saving": 77,
+                "agility": 65,
+                "strength": 75,
+                "penalty_taking": 15,
+                "jumping": 248
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Ivica Ivušić",
+            "rating": 39,
+            "skill": {
+                "passing": 18,
+                "shooting": 19,
+                "tackling": 12,
+                "saving": 68,
+                "agility": 56,
+                "strength": 66,
+                "penalty_taking": 12,
+                "jumping": 265
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Ivo Grbić",
+            "rating": 37,
+            "skill": {
+                "passing": 27,
+                "shooting": 22,
+                "tackling": 12,
+                "saving": 73,
+                "agility": 24,
+                "strength": 68,
+                "penalty_taking": 19,
+                "jumping": 253
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CB",
+            "name": "Domagoj Vida",
+            "rating": 64,
+            "skill": {
+                "passing": 62,
+                "shooting": 40,
+                "tackling": 76,
+                "saving": 11,
+                "agility": 64,
+                "strength": 80,
+                "penalty_taking": 51,
+                "jumping": 271
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Dejan Lovren",
+            "rating": 63,
+            "skill": {
+                "passing": 64,
+                "shooting": 41,
+                "tackling": 82,
+                "saving": 11,
+                "agility": 50,
+                "strength": 81,
+                "penalty_taking": 52,
+                "jumping": 267
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LB",
+            "name": "Borna Barišić",
+            "rating": 70,
+            "skill": {
+                "passing": 73,
+                "shooting": 66,
+                "tackling": 70,
+                "saving": 9,
+                "agility": 69,
+                "strength": 73,
+                "penalty_taking": 66,
+                "jumping": 256
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Josip Juranović",
+            "rating": 70,
+            "skill": {
+                "passing": 72,
+                "shooting": 66,
+                "tackling": 71,
+                "saving": 11,
+                "agility": 82,
+                "strength": 61,
+                "penalty_taking": 80,
+                "jumping": 232
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Joško Gvardiol",
+            "rating": 72,
+            "skill": {
+                "passing": 70,
+                "shooting": 58,
+                "tackling": 83,
+                "saving": 7,
+                "agility": 68,
+                "strength": 84,
+                "penalty_taking": 61,
+                "jumping": 269
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LM",
+            "name": "Borna Sosa",
+            "rating": 70,
+            "skill": {
+                "passing": 78,
+                "shooting": 63,
+                "tackling": 72,
+                "saving": 7,
+                "agility": 73,
+                "strength": 68,
+                "penalty_taking": 31,
+                "jumping": 254
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Josip Stanišić",
+            "rating": 62,
+            "skill": {
+                "passing": 61,
+                "shooting": 44,
+                "tackling": 71,
+                "saving": 9,
+                "agility": 66,
+                "strength": 70,
+                "penalty_taking": 37,
+                "jumping": 247
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCB",
+            "name": "Martin Erlić",
+            "rating": 57,
+            "skill": {
+                "passing": 53,
+                "shooting": 34,
+                "tackling": 76,
+                "saving": 9,
+                "agility": 41,
+                "strength": 82,
+                "penalty_taking": 49,
+                "jumping": 253
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Josip Šutalo",
+            "rating": 61,
+            "skill": {
+                "passing": 61,
+                "shooting": 30,
+                "tackling": 75,
+                "saving": 11,
+                "agility": 62,
+                "strength": 81,
+                "penalty_taking": 39,
+                "jumping": 270
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCM",
+            "name": "Luka Modrić",
+            "rating": 78,
+            "skill": {
+                "passing": 89,
+                "shooting": 79,
+                "tackling": 73,
+                "saving": 10,
+                "agility": 91,
+                "strength": 58,
+                "penalty_taking": 82,
+                "jumping": 239
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CM",
+            "name": "Mateo Kovačić",
+            "rating": 75,
+            "skill": {
+                "passing": 82,
+                "shooting": 73,
+                "tackling": 72,
+                "saving": 6,
+                "agility": 86,
+                "strength": 65,
+                "penalty_taking": 59,
+                "jumping": 251
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CDM",
+            "name": "Marcelo Brozović",
+            "rating": 77,
+            "skill": {
+                "passing": 80,
+                "shooting": 78,
+                "tackling": 83,
+                "saving": 10,
+                "agility": 79,
+                "strength": 68,
+                "penalty_taking": 69,
+                "jumping": 251
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RF",
+            "name": "Mario Pašalić",
+            "rating": 73,
+            "skill": {
+                "passing": 76,
+                "shooting": 76,
+                "tackling": 68,
+                "saving": 12,
+                "agility": 74,
+                "strength": 75,
+                "penalty_taking": 61,
+                "jumping": 258
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LM",
+            "name": "Nikola Vlašić",
+            "rating": 68,
+            "skill": {
+                "passing": 74,
+                "shooting": 76,
+                "tackling": 44,
+                "saving": 11,
+                "agility": 78,
+                "strength": 70,
+                "penalty_taking": 66,
+                "jumping": 233
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCM",
+            "name": "Lovro Majer",
+            "rating": 73,
+            "skill": {
+                "passing": 80,
+                "shooting": 76,
+                "tackling": 61,
+                "saving": 8,
+                "agility": 84,
+                "strength": 64,
+                "penalty_taking": 78,
+                "jumping": 236
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CDM",
+            "name": "Kristijan Jakić",
+            "rating": 69,
+            "skill": {
+                "passing": 66,
+                "shooting": 60,
+                "tackling": 74,
+                "saving": 8,
+                "agility": 64,
+                "strength": 81,
+                "penalty_taking": 49,
+                "jumping": 246
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCM",
+            "name": "Luka Sučić",
+            "rating": 65,
+            "skill": {
+                "passing": 73,
+                "shooting": 72,
+                "tackling": 47,
+                "saving": 11,
+                "agility": 73,
+                "strength": 62,
+                "penalty_taking": 65,
+                "jumping": 248
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LM",
+            "name": "Ivan Perišić",
+            "rating": 77,
+            "skill": {
+                "passing": 81,
+                "shooting": 80,
+                "tackling": 69,
+                "saving": 7,
+                "agility": 76,
+                "strength": 80,
+                "penalty_taking": 76,
+                "jumping": 273
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LS",
+            "name": "Andrej Kramarić",
+            "rating": 66,
+            "skill": {
+                "passing": 75,
+                "shooting": 80,
+                "tackling": 23,
+                "saving": 11,
+                "agility": 84,
+                "strength": 69,
+                "penalty_taking": 91,
+                "jumping": 249
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Bruno Petković",
+            "rating": 68,
+            "skill": {
+                "passing": 73,
+                "shooting": 70,
+                "tackling": 35,
+                "saving": 11,
+                "agility": 74,
+                "strength": 90,
+                "penalty_taking": 86,
+                "jumping": 270
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LW",
+            "name": "Mislav Oršić",
+            "rating": 70,
+            "skill": {
+                "passing": 70,
+                "shooting": 82,
+                "tackling": 56,
+                "saving": 11,
+                "agility": 88,
+                "strength": 57,
+                "penalty_taking": 79,
+                "jumping": 245
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Ante Budimir",
+            "rating": 56,
+            "skill": {
+                "passing": 48,
+                "shooting": 67,
+                "tackling": 31,
+                "saving": 12,
+                "agility": 54,
+                "strength": 83,
+                "penalty_taking": 65,
+                "jumping": 255
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Marko Livaja",
+            "rating": 63,
+            "skill": {
+                "passing": 66,
+                "shooting": 74,
+                "tackling": 29,
+                "saving": 12,
+                "agility": 65,
+                "strength": 84,
+                "penalty_taking": 86,
+                "jumping": 260
+            },
+            "fitness": 100,
+            "injured": false
+        }
+    ]
+}

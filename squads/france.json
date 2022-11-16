@@ -1,0 +1,430 @@
+{
+    "name": "france",
+    "players": [
+        {
+            "position": "GK",
+            "name": "Alphonse Areola",
+            "rating": 49,
+            "skill": {
+                "passing": 35,
+                "shooting": 26,
+                "tackling": 15,
+                "saving": 80,
+                "agility": 58,
+                "strength": 80,
+                "penalty_taking": 25,
+                "jumping": 267
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Hugo Lloris",
+            "rating": 43,
+            "skill": {
+                "passing": 40,
+                "shooting": 23,
+                "tackling": 15,
+                "saving": 83,
+                "agility": 54,
+                "strength": 43,
+                "penalty_taking": 40,
+                "jumping": 262
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Steve Mandanda",
+            "rating": 43,
+            "skill": {
+                "passing": 36,
+                "shooting": 22,
+                "tackling": 14,
+                "saving": 77,
+                "agility": 52,
+                "strength": 61,
+                "penalty_taking": 11,
+                "jumping": 254
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Lucas Hernández",
+            "rating": 72,
+            "skill": {
+                "passing": 72,
+                "shooting": 56,
+                "tackling": 84,
+                "saving": 9,
+                "agility": 70,
+                "strength": 78,
+                "penalty_taking": 42,
+                "jumping": 270
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LB",
+            "name": "Theo Hernández",
+            "rating": 77,
+            "skill": {
+                "passing": 77,
+                "shooting": 73,
+                "tackling": 80,
+                "saving": 8,
+                "agility": 78,
+                "strength": 81,
+                "penalty_taking": 50,
+                "jumping": 252
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Presnel Kimpembe",
+            "rating": 71,
+            "skill": {
+                "passing": 71,
+                "shooting": 47,
+                "tackling": 85,
+                "saving": 10,
+                "agility": 68,
+                "strength": 88,
+                "penalty_taking": 52,
+                "jumping": 268
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CB",
+            "name": "Ibrahima Konaté",
+            "rating": 64,
+            "skill": {
+                "passing": 60,
+                "shooting": 34,
+                "tackling": 82,
+                "saving": 9,
+                "agility": 60,
+                "strength": 87,
+                "penalty_taking": 41,
+                "jumping": 269
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCB",
+            "name": "Jules Koundé",
+            "rating": 69,
+            "skill": {
+                "passing": 67,
+                "shooting": 44,
+                "tackling": 84,
+                "saving": 11,
+                "agility": 71,
+                "strength": 80,
+                "penalty_taking": 43,
+                "jumping": 269
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Benjamin Pavard",
+            "rating": 71,
+            "skill": {
+                "passing": 75,
+                "shooting": 59,
+                "tackling": 81,
+                "saving": 10,
+                "agility": 66,
+                "strength": 78,
+                "penalty_taking": 51,
+                "jumping": 272
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCB",
+            "name": "William Saliba",
+            "rating": 65,
+            "skill": {
+                "passing": 69,
+                "shooting": 43,
+                "tackling": 81,
+                "saving": 8,
+                "agility": 50,
+                "strength": 83,
+                "penalty_taking": 47,
+                "jumping": 263
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CB",
+            "name": "Dayot Upamecano",
+            "rating": 68,
+            "skill": {
+                "passing": 65,
+                "shooting": 42,
+                "tackling": 84,
+                "saving": 9,
+                "agility": 63,
+                "strength": 88,
+                "penalty_taking": 39,
+                "jumping": 273
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Raphaël Varane",
+            "rating": 69,
+            "skill": {
+                "passing": 65,
+                "shooting": 49,
+                "tackling": 84,
+                "saving": 10,
+                "agility": 62,
+                "strength": 87,
+                "penalty_taking": 43,
+                "jumping": 271
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CM",
+            "name": "Eduardo Camavinga",
+            "rating": 77,
+            "skill": {
+                "passing": 78,
+                "shooting": 69,
+                "tackling": 79,
+                "saving": 10,
+                "agility": 81,
+                "strength": 78,
+                "penalty_taking": 62,
+                "jumping": 252
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LDM",
+            "name": "Youssouf Fofana",
+            "rating": 72,
+            "skill": {
+                "passing": 73,
+                "shooting": 68,
+                "tackling": 77,
+                "saving": 9,
+                "agility": 70,
+                "strength": 75,
+                "penalty_taking": 64,
+                "jumping": 235
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCM",
+            "name": "Mattéo Guendouzi",
+            "rating": 76,
+            "skill": {
+                "passing": 77,
+                "shooting": 70,
+                "tackling": 77,
+                "saving": 9,
+                "agility": 81,
+                "strength": 75,
+                "penalty_taking": 62,
+                "jumping": 257
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CM",
+            "name": "Adrien Rabiot",
+            "rating": 74,
+            "skill": {
+                "passing": 77,
+                "shooting": 71,
+                "tackling": 77,
+                "saving": 10,
+                "agility": 69,
+                "strength": 80,
+                "penalty_taking": 67,
+                "jumping": 265
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CM",
+            "name": "Aurélien Tchouaméni",
+            "rating": 77,
+            "skill": {
+                "passing": 79,
+                "shooting": 74,
+                "tackling": 80,
+                "saving": 9,
+                "agility": 73,
+                "strength": 82,
+                "penalty_taking": 55,
+                "jumping": 261
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CDM",
+            "name": "Jordan Veretout",
+            "rating": 76,
+            "skill": {
+                "passing": 75,
+                "shooting": 74,
+                "tackling": 78,
+                "saving": 9,
+                "agility": 77,
+                "strength": 79,
+                "penalty_taking": 80,
+                "jumping": 251
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CF",
+            "name": "Karim Benzema",
+            "rating": 69,
+            "skill": {
+                "passing": 80,
+                "shooting": 85,
+                "tackling": 21,
+                "saving": 8,
+                "agility": 78,
+                "strength": 82,
+                "penalty_taking": 84,
+                "jumping": 264
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LM",
+            "name": "Kingsley Coman",
+            "rating": 67,
+            "skill": {
+                "passing": 78,
+                "shooting": 78,
+                "tackling": 24,
+                "saving": 4,
+                "agility": 92,
+                "strength": 66,
+                "penalty_taking": 70,
+                "jumping": 252
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RW",
+            "name": "Ousmane Dembélé",
+            "rating": 66,
+            "skill": {
+                "passing": 79,
+                "shooting": 79,
+                "tackling": 31,
+                "saving": 9,
+                "agility": 90,
+                "strength": 51,
+                "penalty_taking": 75,
+                "jumping": 236
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Olivier Giroud",
+            "rating": 63,
+            "skill": {
+                "passing": 67,
+                "shooting": 78,
+                "tackling": 28,
+                "saving": 9,
+                "agility": 54,
+                "strength": 90,
+                "penalty_taking": 90,
+                "jumping": 274
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RS",
+            "name": "Antoine Griezmann",
+            "rating": 73,
+            "skill": {
+                "passing": 81,
+                "shooting": 82,
+                "tackling": 52,
+                "saving": 12,
+                "agility": 90,
+                "strength": 64,
+                "penalty_taking": 79,
+                "jumping": 264
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Kylian Mbappé",
+            "rating": 73,
+            "skill": {
+                "passing": 78,
+                "shooting": 85,
+                "tackling": 33,
+                "saving": 8,
+                "agility": 93,
+                "strength": 76,
+                "penalty_taking": 80,
+                "jumping": 259
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LS",
+            "name": "Christopher Nkunku",
+            "rating": 75,
+            "skill": {
+                "passing": 82,
+                "shooting": 81,
+                "tackling": 64,
+                "saving": 8,
+                "agility": 88,
+                "strength": 64,
+                "penalty_taking": 67,
+                "jumping": 234
+            },
+            "fitness": 100,
+            "injured": false
+        }
+    ]
+}

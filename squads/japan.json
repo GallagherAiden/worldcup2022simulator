@@ -1,0 +1,447 @@
+{
+    "name": "japan",
+    "players": [
+        {
+            "position": "GK",
+            "name": "Eiji Kawashima",
+            "rating": 42,
+            "skill": {
+                "passing": 27,
+                "shooting": 25,
+                "tackling": 12,
+                "saving": 71,
+                "agility": 61,
+                "strength": 60,
+                "penalty_taking": 24,
+                "jumping": 254
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Daniel Schmidt",
+            "rating": 36,
+            "skill": {
+                "passing": 21,
+                "shooting": 19,
+                "tackling": 14,
+                "saving": 69,
+                "agility": 29,
+                "strength": 67,
+                "penalty_taking": 16,
+                "jumping": 235
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Shūichi Gonda",
+            "rating": 37,
+            "skill": {
+                "passing": 23,
+                "shooting": 25,
+                "tackling": 18,
+                "saving": 66,
+                "agility": 41,
+                "strength": 54,
+                "penalty_taking": 29,
+                "jumping": 241
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Hiroki Sakai",
+            "rating": 67,
+            "skill": {
+                "passing": 67,
+                "shooting": 58,
+                "tackling": 73,
+                "saving": 10,
+                "agility": 70,
+                "strength": 71,
+                "penalty_taking": 36,
+                "jumping": 265
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Miki Kröpfl",
+            "rating": 64,
+            "skill": {
+                "passing": 68,
+                "shooting": 59,
+                "tackling": 70,
+                "saving": 10,
+                "agility": 54,
+                "strength": 73,
+                "penalty_taking": 43,
+                "jumping": 251
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCB",
+            "name": "Ko Itakura",
+            "rating": 65,
+            "skill": {
+                "passing": 58,
+                "shooting": 46,
+                "tackling": 77,
+                "saving": 10,
+                "agility": 71,
+                "strength": 75,
+                "penalty_taking": 38,
+                "jumping": 272
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Takehiro Tomiyasu",
+            "rating": 67,
+            "skill": {
+                "passing": 70,
+                "shooting": 36,
+                "tackling": 80,
+                "saving": 9,
+                "agility": 69,
+                "strength": 80,
+                "penalty_taking": 37,
+                "jumping": 258
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCB",
+            "name": "Maya Yoshida",
+            "rating": 60,
+            "skill": {
+                "passing": 50,
+                "shooting": 40,
+                "tackling": 75,
+                "saving": 11,
+                "agility": 64,
+                "strength": 75,
+                "penalty_taking": 54,
+                "jumping": 271
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Shogo Taniguchi",
+            "rating": 62,
+            "skill": {
+                "passing": 64,
+                "shooting": 45,
+                "tackling": 71,
+                "saving": 12,
+                "agility": 58,
+                "strength": 72,
+                "penalty_taking": 45,
+                "jumping": 254
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Hiroki Ito",
+            "rating": 67,
+            "skill": {
+                "passing": 70,
+                "shooting": 55,
+                "tackling": 72,
+                "saving": 10,
+                "agility": 66,
+                "strength": 74,
+                "penalty_taking": 47,
+                "jumping": 256
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LM",
+            "name": "Yuto Nagatomo",
+            "rating": 66,
+            "skill": {
+                "passing": 68,
+                "shooting": 53,
+                "tackling": 74,
+                "saving": 12,
+                "agility": 81,
+                "strength": 57,
+                "penalty_taking": 44,
+                "jumping": 247
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RW",
+            "name": "Junya Ito",
+            "rating": 68,
+            "skill": {
+                "passing": 72,
+                "shooting": 70,
+                "tackling": 58,
+                "saving": 10,
+                "agility": 82,
+                "strength": 61,
+                "penalty_taking": 57,
+                "jumping": 264
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RM",
+            "name": "Ritsu Doan",
+            "rating": 65,
+            "skill": {
+                "passing": 72,
+                "shooting": 73,
+                "tackling": 39,
+                "saving": 9,
+                "agility": 86,
+                "strength": 59,
+                "penalty_taking": 58,
+                "jumping": 206
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CDM",
+            "name": "Wataru Endo",
+            "rating": 69,
+            "skill": {
+                "passing": 71,
+                "shooting": 61,
+                "tackling": 74,
+                "saving": 9,
+                "agility": 73,
+                "strength": 66,
+                "penalty_taking": 62,
+                "jumping": 269
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CM",
+            "name": "Hidemasa Morita",
+            "rating": 72,
+            "skill": {
+                "passing": 75,
+                "shooting": 68,
+                "tackling": 73,
+                "saving": 8,
+                "agility": 70,
+                "strength": 74,
+                "penalty_taking": 48,
+                "jumping": 236
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CM",
+            "name": "Ao Tanaka",
+            "rating": 69,
+            "skill": {
+                "passing": 68,
+                "shooting": 66,
+                "tackling": 69,
+                "saving": 10,
+                "agility": 82,
+                "strength": 64,
+                "penalty_taking": 56,
+                "jumping": 240
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Daichi Kamada",
+            "rating": 66,
+            "skill": {
+                "passing": 78,
+                "shooting": 68,
+                "tackling": 43,
+                "saving": 8,
+                "agility": 85,
+                "strength": 57,
+                "penalty_taking": 72,
+                "jumping": 251
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RM",
+            "name": "Takefusa Kubo",
+            "rating": 61,
+            "skill": {
+                "passing": 65,
+                "shooting": 65,
+                "tackling": 45,
+                "saving": 9,
+                "agility": 86,
+                "strength": 46,
+                "penalty_taking": 61,
+                "jumping": 225
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CF",
+            "name": "Takumi Minamino",
+            "rating": 63,
+            "skill": {
+                "passing": 67,
+                "shooting": 73,
+                "tackling": 31,
+                "saving": 11,
+                "agility": 89,
+                "strength": 55,
+                "penalty_taking": 72,
+                "jumping": 250
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LM",
+            "name": "Kaoru Mitoma",
+            "rating": 67,
+            "skill": {
+                "passing": 65,
+                "shooting": 68,
+                "tackling": 56,
+                "saving": 11,
+                "agility": 86,
+                "strength": 60,
+                "penalty_taking": 63,
+                "jumping": 243
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LDM",
+            "name": "Gaku Shibasaki",
+            "rating": 66,
+            "skill": {
+                "passing": 66,
+                "shooting": 61,
+                "tackling": 68,
+                "saving": 10,
+                "agility": 79,
+                "strength": 60,
+                "penalty_taking": 72,
+                "jumping": 245
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LM",
+            "name": "Kianz Soma",
+            "rating": 65,
+            "skill": {
+                "passing": 64,
+                "shooting": 62,
+                "tackling": 61,
+                "saving": 7,
+                "agility": 82,
+                "strength": 56,
+                "penalty_taking": 64,
+                "jumping": 252
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RW",
+            "name": "Takuma Asano",
+            "rating": 61,
+            "skill": {
+                "passing": 57,
+                "shooting": 64,
+                "tackling": 21,
+                "saving": 10,
+                "agility": 90,
+                "strength": 75,
+                "penalty_taking": 65,
+                "jumping": 239
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LW",
+            "name": "Daizen Maeda",
+            "rating": 64,
+            "skill": {
+                "passing": 57,
+                "shooting": 69,
+                "tackling": 47,
+                "saving": 8,
+                "agility": 89,
+                "strength": 58,
+                "penalty_taking": 70,
+                "jumping": 241
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Ayase Ueda",
+            "rating": 56,
+            "skill": {
+                "passing": 49,
+                "shooting": 68,
+                "tackling": 22,
+                "saving": 10,
+                "agility": 71,
+                "strength": 72,
+                "penalty_taking": 62,
+                "jumping": 262
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RS",
+            "name": "Shuto Machino",
+            "rating": 54,
+            "skill": {
+                "passing": 50,
+                "shooting": 62,
+                "tackling": 26,
+                "saving": 8,
+                "agility": 62,
+                "strength": 73,
+                "penalty_taking": 61,
+                "jumping": 253
+            },
+            "fitness": 100,
+            "injured": false
+        }
+    ]
+}

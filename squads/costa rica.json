@@ -1,0 +1,447 @@
+{
+    "name": "costa rica",
+    "players": [
+        {
+            "position": "GK",
+            "name": "Keylor Navas",
+            "rating": 48,
+            "skill": {
+                "passing": 29,
+                "shooting": 26,
+                "tackling": 14,
+                "saving": 84,
+                "agility": 60,
+                "strength": 75,
+                "penalty_taking": 25,
+                "jumping": 259
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Esteban Alvarado",
+            "rating": 39,
+            "skill": {
+                "passing": 21,
+                "shooting": 18,
+                "tackling": 12,
+                "saving": 66,
+                "agility": 58,
+                "strength": 62,
+                "penalty_taking": 20,
+                "jumping": 261
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Patrick Gilmar Sequeira",
+            "rating": 37,
+            "skill": {
+                "passing": 27,
+                "shooting": 17,
+                "tackling": 11,
+                "saving": 60,
+                "agility": 47,
+                "strength": 60,
+                "penalty_taking": 19,
+                "jumping": 250
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Francisco Calvo",
+            "rating": 63,
+            "skill": {
+                "passing": 63,
+                "shooting": 49,
+                "tackling": 65,
+                "saving": 9,
+                "agility": 62,
+                "strength": 77,
+                "penalty_taking": 43,
+                "jumping": 264
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Juan Pablo Vargas",
+            "rating": 53,
+            "skill": {
+                "passing": 40,
+                "shooting": 25,
+                "tackling": 65,
+                "saving": 9,
+                "agility": 54,
+                "strength": 85,
+                "penalty_taking": 34,
+                "jumping": 260
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCB",
+            "name": "Kendall Waston",
+            "rating": 52,
+            "skill": {
+                "passing": 49,
+                "shooting": 27,
+                "tackling": 62,
+                "saving": 10,
+                "agility": 32,
+                "strength": 92,
+                "penalty_taking": 39,
+                "jumping": 277
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Óscar Duarte",
+            "rating": 61,
+            "skill": {
+                "passing": 57,
+                "shooting": 45,
+                "tackling": 76,
+                "saving": 10,
+                "agility": 44,
+                "strength": 84,
+                "penalty_taking": 37,
+                "jumping": 259
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CB",
+            "name": "Daniel Chacon",
+            "rating": 50,
+            "skill": {
+                "passing": 48,
+                "shooting": 55,
+                "tackling": 43,
+                "saving": 37,
+                "agility": 44,
+                "strength": 59,
+                "penalty_taking": 60,
+                "jumping": 276
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Keysher Fuller",
+            "rating": 46,
+            "skill": {
+                "passing": 63,
+                "shooting": 61,
+                "tackling": 53,
+                "saving": 42,
+                "agility": 46,
+                "strength": 38,
+                "penalty_taking": 56,
+                "jumping": 295
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Carlos Martínez",
+            "rating": 65,
+            "skill": {
+                "passing": 73,
+                "shooting": 58,
+                "tackling": 69,
+                "saving": 9,
+                "agility": 55,
+                "strength": 71,
+                "penalty_taking": 43,
+                "jumping": 223
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LB",
+            "name": "Bryan Oviedo",
+            "rating": 60,
+            "skill": {
+                "passing": 60,
+                "shooting": 57,
+                "tackling": 60,
+                "saving": 11,
+                "agility": 69,
+                "strength": 56,
+                "penalty_taking": 52,
+                "jumping": 247
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LB",
+            "name": "Ronald Matarrita",
+            "rating": 66,
+            "skill": {
+                "passing": 65,
+                "shooting": 55,
+                "tackling": 70,
+                "saving": 8,
+                "agility": 74,
+                "strength": 66,
+                "penalty_taking": 59,
+                "jumping": 252
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CM",
+            "name": "Yeltsin Tejeda",
+            "rating": 65,
+            "skill": {
+                "passing": 66,
+                "shooting": 59,
+                "tackling": 66,
+                "saving": 13,
+                "agility": 62,
+                "strength": 74,
+                "penalty_taking": 49,
+                "jumping": 253
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RDM",
+            "name": "Celso Borges",
+            "rating": 58,
+            "skill": {
+                "passing": 45,
+                "shooting": 37,
+                "tackling": 70,
+                "saving": 10,
+                "agility": 64,
+                "strength": 76,
+                "penalty_taking": 75,
+                "jumping": 252
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CM",
+            "name": "Youstin Salas",
+            "rating": 57,
+            "skill": {
+                "passing": 65,
+                "shooting": 43,
+                "tackling": 41,
+                "saving": 63,
+                "agility": 61,
+                "strength": 47,
+                "penalty_taking": 62,
+                "jumping": 277
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RM",
+            "name": "Roan Wilson",
+            "rating": 52,
+            "skill": {
+                "passing": 54,
+                "shooting": 63,
+                "tackling": 59,
+                "saving": 60,
+                "agility": 34,
+                "strength": 55,
+                "penalty_taking": 32,
+                "jumping": 251
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LB",
+            "name": "Edsinho Torres",
+            "rating": 63,
+            "skill": {
+                "passing": 65,
+                "shooting": 53,
+                "tackling": 72,
+                "saving": 10,
+                "agility": 63,
+                "strength": 65,
+                "penalty_taking": 70,
+                "jumping": 240
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RM",
+            "name": "Douglas Lopez",
+            "rating": 49,
+            "skill": {
+                "passing": 60,
+                "shooting": 62,
+                "tackling": 36,
+                "saving": 51,
+                "agility": 37,
+                "strength": 54,
+                "penalty_taking": 41,
+                "jumping": 268
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CDM",
+            "name": "Jewisson Bennette",
+            "rating": 51,
+            "skill": {
+                "passing": 33,
+                "shooting": 52,
+                "tackling": 59,
+                "saving": 46,
+                "agility": 54,
+                "strength": 53,
+                "penalty_taking": 61,
+                "jumping": 278
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Alvaro Zamora",
+            "rating": 46,
+            "skill": {
+                "passing": 62,
+                "shooting": 49,
+                "tackling": 58,
+                "saving": 46,
+                "agility": 63,
+                "strength": 34,
+                "penalty_taking": 62,
+                "jumping": 282
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CM",
+            "name": "Anthony Hernandez",
+            "rating": 40,
+            "skill": {
+                "passing": 43,
+                "shooting": 43,
+                "tackling": 40,
+                "saving": 61,
+                "agility": 40,
+                "strength": 35,
+                "penalty_taking": 50,
+                "jumping": 272
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Brandon Aguilera",
+            "rating": 50,
+            "skill": {
+                "passing": 36,
+                "shooting": 58,
+                "tackling": 50,
+                "saving": 64,
+                "agility": 47,
+                "strength": 33,
+                "penalty_taking": 56,
+                "jumping": 269
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LM",
+            "name": "Bryan Ruíz",
+            "rating": 66,
+            "skill": {
+                "passing": 76,
+                "shooting": 74,
+                "tackling": 43,
+                "saving": 8,
+                "agility": 72,
+                "strength": 67,
+                "penalty_taking": 73,
+                "jumping": 244
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Joel Campbell",
+            "rating": 69,
+            "skill": {
+                "passing": 72,
+                "shooting": 74,
+                "tackling": 41,
+                "saving": 13,
+                "agility": 76,
+                "strength": 82,
+                "penalty_taking": 70,
+                "jumping": 253
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Anthony Contreras",
+            "rating": 35,
+            "skill": {
+                "passing": 38,
+                "shooting": 43,
+                "tackling": 56,
+                "saving": 42,
+                "agility": 51,
+                "strength": 53,
+                "penalty_taking": 48,
+                "jumping": 289
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RM",
+            "name": "Johan Venegas",
+            "rating": 58,
+            "skill": {
+                "passing": 61,
+                "shooting": 67,
+                "tackling": 31,
+                "saving": 9,
+                "agility": 68,
+                "strength": 66,
+                "penalty_taking": 67,
+                "jumping": 254
+            },
+            "fitness": 100,
+            "injured": false
+        }
+    ]
+}

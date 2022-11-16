@@ -1,0 +1,447 @@
+{
+    "name": "spain",
+    "players": [
+        {
+            "position": "GK",
+            "name": "Unai Simón",
+            "rating": 44,
+            "skill": {
+                "passing": 31,
+                "shooting": 26,
+                "tackling": 15,
+                "saving": 81,
+                "agility": 37,
+                "strength": 76,
+                "penalty_taking": 24,
+                "jumping": 256
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Robert Sánchez",
+            "rating": 41,
+            "skill": {
+                "passing": 36,
+                "shooting": 23,
+                "tackling": 14,
+                "saving": 76,
+                "agility": 31,
+                "strength": 66,
+                "penalty_taking": 15,
+                "jumping": 267
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "David Raya",
+            "rating": 43,
+            "skill": {
+                "passing": 40,
+                "shooting": 27,
+                "tackling": 13,
+                "saving": 76,
+                "agility": 66,
+                "strength": 38,
+                "penalty_taking": 26,
+                "jumping": 256
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCB",
+            "name": "Azpilicueta",
+            "rating": 72,
+            "skill": {
+                "passing": 79,
+                "shooting": 60,
+                "tackling": 84,
+                "saving": 8,
+                "agility": 67,
+                "strength": 70,
+                "penalty_taking": 66,
+                "jumping": 261
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Carvajal",
+            "rating": 74,
+            "skill": {
+                "passing": 79,
+                "shooting": 60,
+                "tackling": 81,
+                "saving": 13,
+                "agility": 78,
+                "strength": 74,
+                "penalty_taking": 45,
+                "jumping": 250
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CB",
+            "name": "Eric García",
+            "rating": 67,
+            "skill": {
+                "passing": 73,
+                "shooting": 50,
+                "tackling": 76,
+                "saving": 10,
+                "agility": 64,
+                "strength": 72,
+                "penalty_taking": 44,
+                "jumping": 259
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CDM",
+            "name": "Hugo Guillamón",
+            "rating": 64,
+            "skill": {
+                "passing": 67,
+                "shooting": 50,
+                "tackling": 75,
+                "saving": 12,
+                "agility": 62,
+                "strength": 68,
+                "penalty_taking": 62,
+                "jumping": 254
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Pau Torres",
+            "rating": 69,
+            "skill": {
+                "passing": 70,
+                "shooting": 42,
+                "tackling": 84,
+                "saving": 11,
+                "agility": 68,
+                "strength": 82,
+                "penalty_taking": 42,
+                "jumping": 271
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Aymeric Laporte",
+            "rating": 71,
+            "skill": {
+                "passing": 74,
+                "shooting": 55,
+                "tackling": 86,
+                "saving": 9,
+                "agility": 57,
+                "strength": 84,
+                "penalty_taking": 44,
+                "jumping": 271
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LB",
+            "name": "Jordi Alba",
+            "rating": 76,
+            "skill": {
+                "passing": 84,
+                "shooting": 71,
+                "tackling": 78,
+                "saving": 12,
+                "agility": 87,
+                "strength": 61,
+                "penalty_taking": 59,
+                "jumping": 250
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LB",
+            "name": "Gayà",
+            "rating": 74,
+            "skill": {
+                "passing": 77,
+                "shooting": 65,
+                "tackling": 81,
+                "saving": 10,
+                "agility": 82,
+                "strength": 67,
+                "penalty_taking": 52,
+                "jumping": 225
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CDM",
+            "name": "Sergio Busquets",
+            "rating": 71,
+            "skill": {
+                "passing": 78,
+                "shooting": 62,
+                "tackling": 82,
+                "saving": 9,
+                "agility": 66,
+                "strength": 70,
+                "penalty_taking": 60,
+                "jumping": 255
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CDM",
+            "name": "Rodri",
+            "rating": 76,
+            "skill": {
+                "passing": 77,
+                "shooting": 75,
+                "tackling": 82,
+                "saving": 9,
+                "agility": 65,
+                "strength": 84,
+                "penalty_taking": 46,
+                "jumping": 263
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CM",
+            "name": "Gavi",
+            "rating": 70,
+            "skill": {
+                "passing": 77,
+                "shooting": 65,
+                "tackling": 68,
+                "saving": 9,
+                "agility": 86,
+                "strength": 55,
+                "penalty_taking": 51,
+                "jumping": 243
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCM",
+            "name": "Carlos Soler",
+            "rating": 75,
+            "skill": {
+                "passing": 82,
+                "shooting": 77,
+                "tackling": 73,
+                "saving": 10,
+                "agility": 76,
+                "strength": 71,
+                "penalty_taking": 86,
+                "jumping": 238
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCM",
+            "name": "Marcos Llorente",
+            "rating": 78,
+            "skill": {
+                "passing": 80,
+                "shooting": 79,
+                "tackling": 76,
+                "saving": 10,
+                "agility": 82,
+                "strength": 77,
+                "penalty_taking": 65,
+                "jumping": 253
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCM",
+            "name": "Pedri",
+            "rating": 75,
+            "skill": {
+                "passing": 80,
+                "shooting": 70,
+                "tackling": 68,
+                "saving": 9,
+                "agility": 88,
+                "strength": 70,
+                "penalty_taking": 53,
+                "jumping": 239
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCM",
+            "name": "Koke",
+            "rating": 77,
+            "skill": {
+                "passing": 85,
+                "shooting": 77,
+                "tackling": 76,
+                "saving": 10,
+                "agility": 72,
+                "strength": 75,
+                "penalty_taking": 67,
+                "jumping": 235
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LW",
+            "name": "Ferran Torres",
+            "rating": 66,
+            "skill": {
+                "passing": 79,
+                "shooting": 77,
+                "tackling": 26,
+                "saving": 11,
+                "agility": 83,
+                "strength": 69,
+                "penalty_taking": 74,
+                "jumping": 259
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RM",
+            "name": "Nico Williams",
+            "rating": 60,
+            "skill": {
+                "passing": 67,
+                "shooting": 66,
+                "tackling": 19,
+                "saving": 12,
+                "agility": 88,
+                "strength": 61,
+                "penalty_taking": 62,
+                "jumping": 247
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RM",
+            "name": "Yeremy Pino",
+            "rating": 61,
+            "skill": {
+                "passing": 76,
+                "shooting": 72,
+                "tackling": 44,
+                "saving": 9,
+                "agility": 80,
+                "strength": 33,
+                "penalty_taking": 54,
+                "jumping": 206
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Morata",
+            "rating": 62,
+            "skill": {
+                "passing": 69,
+                "shooting": 76,
+                "tackling": 17,
+                "saving": 4,
+                "agility": 72,
+                "strength": 80,
+                "penalty_taking": 75,
+                "jumping": 276
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RW",
+            "name": "Marco Asensio",
+            "rating": 69,
+            "skill": {
+                "passing": 81,
+                "shooting": 83,
+                "tackling": 40,
+                "saving": 10,
+                "agility": 80,
+                "strength": 63,
+                "penalty_taking": 62,
+                "jumping": 240
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RW",
+            "name": "Pablo Sarabia",
+            "rating": 70,
+            "skill": {
+                "passing": 81,
+                "shooting": 78,
+                "tackling": 51,
+                "saving": 11,
+                "agility": 81,
+                "strength": 59,
+                "penalty_taking": 72,
+                "jumping": 205
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Dani Olmo",
+            "rating": 68,
+            "skill": {
+                "passing": 80,
+                "shooting": 75,
+                "tackling": 47,
+                "saving": 13,
+                "agility": 86,
+                "strength": 54,
+                "penalty_taking": 66,
+                "jumping": 234
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LW",
+            "name": "Ansu Fati",
+            "rating": 62,
+            "skill": {
+                "passing": 70,
+                "shooting": 75,
+                "tackling": 30,
+                "saving": 8,
+                "agility": 89,
+                "strength": 48,
+                "penalty_taking": 74,
+                "jumping": 253
+            },
+            "fitness": 100,
+            "injured": false
+        }
+    ]
+}

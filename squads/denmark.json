@@ -1,0 +1,447 @@
+{
+    "name": "denmark",
+    "players": [
+        {
+            "position": "GK",
+            "name": "Kasper Schmeichel",
+            "rating": 46,
+            "skill": {
+                "passing": 35,
+                "shooting": 24,
+                "tackling": 13,
+                "saving": 81,
+                "agility": 60,
+                "strength": 63,
+                "penalty_taking": 26,
+                "jumping": 249
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Oliver Christensen",
+            "rating": 38,
+            "skill": {
+                "passing": 33,
+                "shooting": 18,
+                "tackling": 12,
+                "saving": 68,
+                "agility": 33,
+                "strength": 64,
+                "penalty_taking": 10,
+                "jumping": 254
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Frederik Rønnow",
+            "rating": 38,
+            "skill": {
+                "passing": 23,
+                "shooting": 22,
+                "tackling": 12,
+                "saving": 73,
+                "agility": 34,
+                "strength": 67,
+                "penalty_taking": 17,
+                "jumping": 251
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CB",
+            "name": "Simon Kjær",
+            "rating": 67,
+            "skill": {
+                "passing": 65,
+                "shooting": 55,
+                "tackling": 81,
+                "saving": 10,
+                "agility": 55,
+                "strength": 83,
+                "penalty_taking": 61,
+                "jumping": 267
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCB",
+            "name": "Joachim Andersen",
+            "rating": 67,
+            "skill": {
+                "passing": 70,
+                "shooting": 57,
+                "tackling": 77,
+                "saving": 11,
+                "agility": 48,
+                "strength": 86,
+                "penalty_taking": 44,
+                "jumping": 266
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RWB",
+            "name": "Joakim Mæhle",
+            "rating": 68,
+            "skill": {
+                "passing": 72,
+                "shooting": 60,
+                "tackling": 71,
+                "saving": 10,
+                "agility": 67,
+                "strength": 74,
+                "penalty_taking": 33,
+                "jumping": 267
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CB",
+            "name": "Andreas Christensen",
+            "rating": 64,
+            "skill": {
+                "passing": 68,
+                "shooting": 33,
+                "tackling": 83,
+                "saving": 8,
+                "agility": 61,
+                "strength": 77,
+                "penalty_taking": 36,
+                "jumping": 267
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Rasmus Kristensen",
+            "rating": 72,
+            "skill": {
+                "passing": 72,
+                "shooting": 68,
+                "tackling": 72,
+                "saving": 8,
+                "agility": 72,
+                "strength": 78,
+                "penalty_taking": 62,
+                "jumping": 270
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Jens Stryger Larsen",
+            "rating": 70,
+            "skill": {
+                "passing": 73,
+                "shooting": 61,
+                "tackling": 71,
+                "saving": 8,
+                "agility": 71,
+                "strength": 74,
+                "penalty_taking": 50,
+                "jumping": 258
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCB",
+            "name": "Victor Nelsson",
+            "rating": 66,
+            "skill": {
+                "passing": 63,
+                "shooting": 47,
+                "tackling": 73,
+                "saving": 9,
+                "agility": 63,
+                "strength": 85,
+                "penalty_taking": 53,
+                "jumping": 266
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CM",
+            "name": "Daniel Wass",
+            "rating": 75,
+            "skill": {
+                "passing": 80,
+                "shooting": 79,
+                "tackling": 75,
+                "saving": 11,
+                "agility": 72,
+                "strength": 73,
+                "penalty_taking": 61,
+                "jumping": 248
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Alexander Bah",
+            "rating": 72,
+            "skill": {
+                "passing": 68,
+                "shooting": 65,
+                "tackling": 73,
+                "saving": 10,
+                "agility": 77,
+                "strength": 78,
+                "penalty_taking": 51,
+                "jumping": 256
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CDM",
+            "name": "Thomas Delaney",
+            "rating": 75,
+            "skill": {
+                "passing": 74,
+                "shooting": 72,
+                "tackling": 81,
+                "saving": 12,
+                "agility": 72,
+                "strength": 77,
+                "penalty_taking": 60,
+                "jumping": 273
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCM",
+            "name": "Mathias Jensen",
+            "rating": 68,
+            "skill": {
+                "passing": 74,
+                "shooting": 64,
+                "tackling": 60,
+                "saving": 9,
+                "agility": 77,
+                "strength": 66,
+                "penalty_taking": 69,
+                "jumping": 247
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CM",
+            "name": "Christian Eriksen",
+            "rating": 65,
+            "skill": {
+                "passing": 88,
+                "shooting": 82,
+                "tackling": 39,
+                "saving": 8,
+                "agility": 68,
+                "strength": 52,
+                "penalty_taking": 67,
+                "jumping": 230
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCM",
+            "name": "Pierre-Emile Højbjerg",
+            "rating": 74,
+            "skill": {
+                "passing": 77,
+                "shooting": 75,
+                "tackling": 78,
+                "saving": 10,
+                "agility": 65,
+                "strength": 79,
+                "penalty_taking": 56,
+                "jumping": 252
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RW",
+            "name": "Robert Skov",
+            "rating": 73,
+            "skill": {
+                "passing": 75,
+                "shooting": 81,
+                "tackling": 67,
+                "saving": 14,
+                "agility": 76,
+                "strength": 67,
+                "penalty_taking": 74,
+                "jumping": 234
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CDM",
+            "name": "Christian Nørgaard",
+            "rating": 69,
+            "skill": {
+                "passing": 70,
+                "shooting": 61,
+                "tackling": 75,
+                "saving": 11,
+                "agility": 65,
+                "strength": 77,
+                "penalty_taking": 60,
+                "jumping": 255
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RM",
+            "name": "Andreas Skov Olsen",
+            "rating": 62,
+            "skill": {
+                "passing": 69,
+                "shooting": 73,
+                "tackling": 34,
+                "saving": 9,
+                "agility": 70,
+                "strength": 67,
+                "penalty_taking": 68,
+                "jumping": 257
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Jesper Lindstrøm",
+            "rating": 65,
+            "skill": {
+                "passing": 67,
+                "shooting": 69,
+                "tackling": 53,
+                "saving": 11,
+                "agility": 83,
+                "strength": 55,
+                "penalty_taking": 48,
+                "jumping": 234
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Andreas Cornelius",
+            "rating": 57,
+            "skill": {
+                "passing": 56,
+                "shooting": 72,
+                "tackling": 20,
+                "saving": 10,
+                "agility": 49,
+                "strength": 89,
+                "penalty_taking": 66,
+                "jumping": 268
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Martin Braithwaite",
+            "rating": 65,
+            "skill": {
+                "passing": 69,
+                "shooting": 74,
+                "tackling": 28,
+                "saving": 10,
+                "agility": 81,
+                "strength": 75,
+                "penalty_taking": 73,
+                "jumping": 259
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Kasper Dolberg",
+            "rating": 62,
+            "skill": {
+                "passing": 61,
+                "shooting": 79,
+                "tackling": 21,
+                "saving": 10,
+                "agility": 70,
+                "strength": 79,
+                "penalty_taking": 78,
+                "jumping": 260
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LM",
+            "name": "Mikkel Damsgaard",
+            "rating": 65,
+            "skill": {
+                "passing": 68,
+                "shooting": 69,
+                "tackling": 43,
+                "saving": 9,
+                "agility": 91,
+                "strength": 56,
+                "penalty_taking": 47,
+                "jumping": 252
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Jonas Wind",
+            "rating": 63,
+            "skill": {
+                "passing": 67,
+                "shooting": 71,
+                "tackling": 25,
+                "saving": 9,
+                "agility": 70,
+                "strength": 86,
+                "penalty_taking": 76,
+                "jumping": 262
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Yussuf Poulsen",
+            "rating": 65,
+            "skill": {
+                "passing": 64,
+                "shooting": 69,
+                "tackling": 46,
+                "saving": 10,
+                "agility": 69,
+                "strength": 79,
+                "penalty_taking": 58,
+                "jumping": 275
+            },
+            "fitness": 100,
+            "injured": false
+        }
+    ]
+}

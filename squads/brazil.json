@@ -1,0 +1,447 @@
+{
+    "name": "brazil",
+    "players": [
+        {
+            "position": "GK",
+            "name": "Alisson",
+            "rating": 49,
+            "skill": {
+                "passing": 45,
+                "shooting": 27,
+                "tackling": 17,
+                "saving": 87,
+                "agility": 40,
+                "strength": 78,
+                "penalty_taking": 23,
+                "jumping": 243
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Ederson",
+            "rating": 52,
+            "skill": {
+                "passing": 49,
+                "shooting": 29,
+                "tackling": 11,
+                "saving": 87,
+                "agility": 60,
+                "strength": 78,
+                "penalty_taking": 51,
+                "jumping": 254
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Weverton",
+            "rating": 41,
+            "skill": {
+                "passing": 35,
+                "shooting": 18,
+                "tackling": 14,
+                "saving": 76,
+                "agility": 38,
+                "strength": 70,
+                "penalty_taking": 17,
+                "jumping": 260
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Daniel Alves da Silva",
+            "rating": 71,
+            "skill": {
+                "passing": 78,
+                "shooting": 76,
+                "tackling": 72,
+                "saving": 7,
+                "agility": 79,
+                "strength": 53,
+                "penalty_taking": 70,
+                "jumping": 242
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Danilo",
+            "rating": 73,
+            "skill": {
+                "passing": 75,
+                "shooting": 71,
+                "tackling": 81,
+                "saving": 10,
+                "agility": 62,
+                "strength": 80,
+                "penalty_taking": 67,
+                "jumping": 259
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LB",
+            "name": "Alex Sandro",
+            "rating": 74,
+            "skill": {
+                "passing": 74,
+                "shooting": 70,
+                "tackling": 78,
+                "saving": 8,
+                "agility": 75,
+                "strength": 77,
+                "penalty_taking": 60,
+                "jumping": 258
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LB",
+            "name": "Alex Telles",
+            "rating": 74,
+            "skill": {
+                "passing": 81,
+                "shooting": 80,
+                "tackling": 76,
+                "saving": 11,
+                "agility": 75,
+                "strength": 62,
+                "penalty_taking": 83,
+                "jumping": 262
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Bremer",
+            "rating": 68,
+            "skill": {
+                "passing": 61,
+                "shooting": 48,
+                "tackling": 84,
+                "saving": 10,
+                "agility": 66,
+                "strength": 82,
+                "penalty_taking": 43,
+                "jumping": 270
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CB",
+            "name": "Éder Militão",
+            "rating": 72,
+            "skill": {
+                "passing": 74,
+                "shooting": 53,
+                "tackling": 85,
+                "saving": 12,
+                "agility": 70,
+                "strength": 79,
+                "penalty_taking": 60,
+                "jumping": 271
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CB",
+            "name": "Marquinhos",
+            "rating": 74,
+            "skill": {
+                "passing": 79,
+                "shooting": 56,
+                "tackling": 89,
+                "saving": 9,
+                "agility": 68,
+                "strength": 78,
+                "penalty_taking": 52,
+                "jumping": 275
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CB",
+            "name": "Thiago Silva",
+            "rating": 72,
+            "skill": {
+                "passing": 74,
+                "shooting": 59,
+                "tackling": 85,
+                "saving": 9,
+                "agility": 62,
+                "strength": 80,
+                "penalty_taking": 60,
+                "jumping": 271
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CDM",
+            "name": "Bruno Guimarães",
+            "rating": 74,
+            "skill": {
+                "passing": 78,
+                "shooting": 68,
+                "tackling": 76,
+                "saving": 11,
+                "agility": 74,
+                "strength": 75,
+                "penalty_taking": 65,
+                "jumping": 244
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CDM",
+            "name": "Casemiro",
+            "rating": 77,
+            "skill": {
+                "passing": 75,
+                "shooting": 73,
+                "tackling": 87,
+                "saving": 13,
+                "agility": 61,
+                "strength": 90,
+                "penalty_taking": 66,
+                "jumping": 270
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Éverton Ribeiro",
+            "rating": 65,
+            "skill": {
+                "passing": 78,
+                "shooting": 72,
+                "tackling": 39,
+                "saving": 11,
+                "agility": 91,
+                "strength": 46,
+                "penalty_taking": 72,
+                "jumping": 233
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CDM",
+            "name": "Fabinho",
+            "rating": 76,
+            "skill": {
+                "passing": 80,
+                "shooting": 71,
+                "tackling": 87,
+                "saving": 9,
+                "agility": 63,
+                "strength": 81,
+                "penalty_taking": 90,
+                "jumping": 263
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CDM",
+            "name": "Wilfred Ndidi",
+            "rating": 71,
+            "skill": {
+                "passing": 68,
+                "shooting": 64,
+                "tackling": 86,
+                "saving": 10,
+                "agility": 63,
+                "strength": 78,
+                "penalty_taking": 57,
+                "jumping": 272
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCM",
+            "name": "Lucas Paquetá",
+            "rating": 74,
+            "skill": {
+                "passing": 77,
+                "shooting": 77,
+                "tackling": 67,
+                "saving": 11,
+                "agility": 75,
+                "strength": 77,
+                "penalty_taking": 75,
+                "jumping": 258
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RW",
+            "name": "Antony",
+            "rating": 66,
+            "skill": {
+                "passing": 72,
+                "shooting": 76,
+                "tackling": 29,
+                "saving": 10,
+                "agility": 92,
+                "strength": 62,
+                "penalty_taking": 66,
+                "jumping": 231
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Gabriel Jesus",
+            "rating": 68,
+            "skill": {
+                "passing": 72,
+                "shooting": 80,
+                "tackling": 29,
+                "saving": 9,
+                "agility": 91,
+                "strength": 69,
+                "penalty_taking": 75,
+                "jumping": 254
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LM",
+            "name": "Gabriel Martinelli",
+            "rating": 64,
+            "skill": {
+                "passing": 64,
+                "shooting": 70,
+                "tackling": 43,
+                "saving": 7,
+                "agility": 82,
+                "strength": 61,
+                "penalty_taking": 60,
+                "jumping": 233
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LW",
+            "name": "Neymar Jr",
+            "rating": 68,
+            "skill": {
+                "passing": 83,
+                "shooting": 82,
+                "tackling": 30,
+                "saving": 11,
+                "agility": 93,
+                "strength": 52,
+                "penalty_taking": 91,
+                "jumping": 237
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LB",
+            "name": "João Cancelo",
+            "rating": 77,
+            "skill": {
+                "passing": 85,
+                "shooting": 78,
+                "tackling": 82,
+                "saving": 11,
+                "agility": 79,
+                "strength": 62,
+                "penalty_taking": 52,
+                "jumping": 254
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RW",
+            "name": "Raphinha",
+            "rating": 71,
+            "skill": {
+                "passing": 76,
+                "shooting": 80,
+                "tackling": 46,
+                "saving": 10,
+                "agility": 88,
+                "strength": 65,
+                "penalty_taking": 78,
+                "jumping": 250
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Richarlison",
+            "rating": 71,
+            "skill": {
+                "passing": 70,
+                "shooting": 77,
+                "tackling": 53,
+                "saving": 10,
+                "agility": 79,
+                "strength": 76,
+                "penalty_taking": 77,
+                "jumping": 267
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RW",
+            "name": "Rodrygo",
+            "rating": 62,
+            "skill": {
+                "passing": 71,
+                "shooting": 76,
+                "tackling": 34,
+                "saving": 8,
+                "agility": 87,
+                "strength": 42,
+                "penalty_taking": 74,
+                "jumping": 248
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LW",
+            "name": "Vinícius Jr.",
+            "rating": 65,
+            "skill": {
+                "passing": 73,
+                "shooting": 78,
+                "tackling": 21,
+                "saving": 7,
+                "agility": 94,
+                "strength": 62,
+                "penalty_taking": 65,
+                "jumping": 251
+            },
+            "fitness": 100,
+            "injured": false
+        }
+    ]
+}

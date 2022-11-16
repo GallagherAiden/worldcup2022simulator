@@ -1,0 +1,447 @@
+{
+    "name": "united states",
+    "players": [
+        {
+            "position": "GK",
+            "name": "Ethan Horvath",
+            "rating": 40,
+            "skill": {
+                "passing": 24,
+                "shooting": 23,
+                "tackling": 8,
+                "saving": 67,
+                "agility": 54,
+                "strength": 64,
+                "penalty_taking": 11,
+                "jumping": 259
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Sean Johnson",
+            "rating": 43,
+            "skill": {
+                "passing": 34,
+                "shooting": 24,
+                "tackling": 15,
+                "saving": 71,
+                "agility": 44,
+                "strength": 72,
+                "penalty_taking": 16,
+                "jumping": 261
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Matt Turner",
+            "rating": 40,
+            "skill": {
+                "passing": 22,
+                "shooting": 24,
+                "tackling": 11,
+                "saving": 74,
+                "agility": 48,
+                "strength": 64,
+                "penalty_taking": 14,
+                "jumping": 246
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCB",
+            "name": "Cameron Carter-Vickers",
+            "rating": 62,
+            "skill": {
+                "passing": 58,
+                "shooting": 26,
+                "tackling": 72,
+                "saving": 10,
+                "agility": 67,
+                "strength": 90,
+                "penalty_taking": 38,
+                "jumping": 258
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Sergiño Dest",
+            "rating": 71,
+            "skill": {
+                "passing": 75,
+                "shooting": 64,
+                "tackling": 73,
+                "saving": 12,
+                "agility": 88,
+                "strength": 59,
+                "penalty_taking": 39,
+                "jumping": 230
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCB",
+            "name": "Aaron Long",
+            "rating": 62,
+            "skill": {
+                "passing": 54,
+                "shooting": 37,
+                "tackling": 70,
+                "saving": 10,
+                "agility": 68,
+                "strength": 83,
+                "penalty_taking": 39,
+                "jumping": 276
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Shaquell Moore",
+            "rating": 69,
+            "skill": {
+                "passing": 65,
+                "shooting": 59,
+                "tackling": 64,
+                "saving": 11,
+                "agility": 82,
+                "strength": 78,
+                "penalty_taking": 56,
+                "jumping": 269
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Tim Ream",
+            "rating": 64,
+            "skill": {
+                "passing": 67,
+                "shooting": 48,
+                "tackling": 69,
+                "saving": 12,
+                "agility": 66,
+                "strength": 72,
+                "penalty_taking": 49,
+                "jumping": 258
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LB",
+            "name": "Antonee Robinson",
+            "rating": 65,
+            "skill": {
+                "passing": 64,
+                "shooting": 48,
+                "tackling": 70,
+                "saving": 11,
+                "agility": 76,
+                "strength": 68,
+                "penalty_taking": 45,
+                "jumping": 258
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Joe Scally",
+            "rating": 65,
+            "skill": {
+                "passing": 64,
+                "shooting": 47,
+                "tackling": 70,
+                "saving": 9,
+                "agility": 77,
+                "strength": 67,
+                "penalty_taking": 39,
+                "jumping": 244
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "DeAndre Yedlin",
+            "rating": 67,
+            "skill": {
+                "passing": 56,
+                "shooting": 58,
+                "tackling": 65,
+                "saving": 10,
+                "agility": 90,
+                "strength": 67,
+                "penalty_taking": 38,
+                "jumping": 264
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CB",
+            "name": "Walker Zimmerman",
+            "rating": 62,
+            "skill": {
+                "passing": 58,
+                "shooting": 45,
+                "tackling": 72,
+                "saving": 10,
+                "agility": 49,
+                "strength": 87,
+                "penalty_taking": 56,
+                "jumping": 276
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Brenden Aaronson",
+            "rating": 63,
+            "skill": {
+                "passing": 66,
+                "shooting": 66,
+                "tackling": 51,
+                "saving": 10,
+                "agility": 85,
+                "strength": 50,
+                "penalty_taking": 63,
+                "jumping": 251
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCM",
+            "name": "Kellyn Acosta",
+            "rating": 70,
+            "skill": {
+                "passing": 71,
+                "shooting": 72,
+                "tackling": 65,
+                "saving": 9,
+                "agility": 74,
+                "strength": 70,
+                "penalty_taking": 66,
+                "jumping": 262
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RDM",
+            "name": "Tyler Adams",
+            "rating": 68,
+            "skill": {
+                "passing": 69,
+                "shooting": 49,
+                "tackling": 73,
+                "saving": 9,
+                "agility": 83,
+                "strength": 68,
+                "penalty_taking": 51,
+                "jumping": 259
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CM",
+            "name": "Luca de la Torre",
+            "rating": 62,
+            "skill": {
+                "passing": 70,
+                "shooting": 58,
+                "tackling": 59,
+                "saving": 10,
+                "agility": 76,
+                "strength": 51,
+                "penalty_taking": 61,
+                "jumping": 233
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCM",
+            "name": "Weston McKennie",
+            "rating": 76,
+            "skill": {
+                "passing": 76,
+                "shooting": 74,
+                "tackling": 77,
+                "saving": 9,
+                "agility": 75,
+                "strength": 81,
+                "penalty_taking": 61,
+                "jumping": 275
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RM",
+            "name": "Yunus Musah",
+            "rating": 66,
+            "skill": {
+                "passing": 67,
+                "shooting": 69,
+                "tackling": 59,
+                "saving": 10,
+                "agility": 70,
+                "strength": 69,
+                "penalty_taking": 50,
+                "jumping": 242
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RM",
+            "name": "Cristian Roldan",
+            "rating": 73,
+            "skill": {
+                "passing": 72,
+                "shooting": 71,
+                "tackling": 71,
+                "saving": 11,
+                "agility": 77,
+                "strength": 76,
+                "penalty_taking": 65,
+                "jumping": 263
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Jesus Ferreira",
+            "rating": 65,
+            "skill": {
+                "passing": 69,
+                "shooting": 71,
+                "tackling": 47,
+                "saving": 11,
+                "agility": 83,
+                "strength": 57,
+                "penalty_taking": 66,
+                "jumping": 250
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LM",
+            "name": "Jordan Morris",
+            "rating": 64,
+            "skill": {
+                "passing": 67,
+                "shooting": 64,
+                "tackling": 28,
+                "saving": 10,
+                "agility": 79,
+                "strength": 86,
+                "penalty_taking": 72,
+                "jumping": 268
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LW",
+            "name": "Christian Pulisic",
+            "rating": 63,
+            "skill": {
+                "passing": 70,
+                "shooting": 69,
+                "tackling": 39,
+                "saving": 12,
+                "agility": 87,
+                "strength": 54,
+                "penalty_taking": 61,
+                "jumping": 256
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Giovanni Reyna",
+            "rating": 68,
+            "skill": {
+                "passing": 70,
+                "shooting": 75,
+                "tackling": 36,
+                "saving": 11,
+                "agility": 84,
+                "strength": 75,
+                "penalty_taking": 50,
+                "jumping": 251
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RM",
+            "name": "Josh Sargent",
+            "rating": 64,
+            "skill": {
+                "passing": 60,
+                "shooting": 67,
+                "tackling": 37,
+                "saving": 8,
+                "agility": 76,
+                "strength": 82,
+                "penalty_taking": 59,
+                "jumping": 258
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RM",
+            "name": "Timothy Weah",
+            "rating": 65,
+            "skill": {
+                "passing": 65,
+                "shooting": 69,
+                "tackling": 41,
+                "saving": 11,
+                "agility": 86,
+                "strength": 64,
+                "penalty_taking": 60,
+                "jumping": 253
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Haji Wright",
+            "rating": 58,
+            "skill": {
+                "passing": 50,
+                "shooting": 63,
+                "tackling": 19,
+                "saving": 9,
+                "agility": 68,
+                "strength": 91,
+                "penalty_taking": 64,
+                "jumping": 263
+            },
+            "fitness": 100,
+            "injured": false
+        }
+    ]
+}

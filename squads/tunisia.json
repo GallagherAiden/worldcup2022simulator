@@ -1,0 +1,447 @@
+{
+    "name": "tunisia",
+    "players": [
+        {
+            "position": "GK",
+            "name": "Aymen Dahmen",
+            "rating": 24,
+            "skill": {
+                "passing": 48,
+                "shooting": 55,
+                "tackling": 43,
+                "saving": 34,
+                "agility": 60,
+                "strength": 34,
+                "penalty_taking": 40,
+                "jumping": 297
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Bechir Ben Said",
+            "rating": 28,
+            "skill": {
+                "passing": 46,
+                "shooting": 65,
+                "tackling": 52,
+                "saving": 34,
+                "agility": 34,
+                "strength": 61,
+                "penalty_taking": 44,
+                "jumping": 261
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Mouez Hassen",
+            "rating": 39,
+            "skill": {
+                "passing": 22,
+                "shooting": 21,
+                "tackling": 14,
+                "saving": 63,
+                "agility": 63,
+                "strength": 55,
+                "penalty_taking": 21,
+                "jumping": 256
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Aymen Mathlouthi",
+            "rating": 36,
+            "skill": {
+                "passing": 21,
+                "shooting": 20,
+                "tackling": 15,
+                "saving": 65,
+                "agility": 33,
+                "strength": 65,
+                "penalty_taking": 25,
+                "jumping": 249
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LWB",
+            "name": "Ali Abdi",
+            "rating": 66,
+            "skill": {
+                "passing": 66,
+                "shooting": 63,
+                "tackling": 62,
+                "saving": 11,
+                "agility": 72,
+                "strength": 70,
+                "penalty_taking": 41,
+                "jumping": 251
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CB",
+            "name": "Dylan Bronn",
+            "rating": 68,
+            "skill": {
+                "passing": 67,
+                "shooting": 64,
+                "tackling": 69,
+                "saving": 8,
+                "agility": 66,
+                "strength": 77,
+                "penalty_taking": 63,
+                "jumping": 255
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Mohamed Dräger",
+            "rating": 64,
+            "skill": {
+                "passing": 64,
+                "shooting": 62,
+                "tackling": 64,
+                "saving": 9,
+                "agility": 77,
+                "strength": 56,
+                "penalty_taking": 60,
+                "jumping": 227
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CB",
+            "name": "Nader Ghandri",
+            "rating": 35,
+            "skill": {
+                "passing": 21,
+                "shooting": 41,
+                "tackling": 27,
+                "saving": 9,
+                "agility": 5,
+                "strength": 84,
+                "penalty_taking": 41,
+                "jumping": 206
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCB",
+            "name": "Bilel Ifa",
+            "rating": 58,
+            "skill": {
+                "passing": 57,
+                "shooting": 34,
+                "tackling": 71,
+                "saving": 13,
+                "agility": 56,
+                "strength": 75,
+                "penalty_taking": 30,
+                "jumping": 254
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RWB",
+            "name": "Wajdi Kechrida",
+            "rating": 53,
+            "skill": {
+                "passing": 49,
+                "shooting": 36,
+                "tackling": 73,
+                "saving": 11,
+                "agility": 51,
+                "strength": 57,
+                "penalty_taking": 46,
+                "jumping": 238
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LB",
+            "name": "Ali Maâloul",
+            "rating": 63,
+            "skill": {
+                "passing": 66,
+                "shooting": 65,
+                "tackling": 67,
+                "saving": 12,
+                "agility": 73,
+                "strength": 45,
+                "penalty_taking": 59,
+                "jumping": 230
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CB",
+            "name": "Khassa Meriah",
+            "rating": 62,
+            "skill": {
+                "passing": 54,
+                "shooting": 49,
+                "tackling": 70,
+                "saving": 8,
+                "agility": 65,
+                "strength": 74,
+                "penalty_taking": 64,
+                "jumping": 275
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Montassar Talbi",
+            "rating": 55,
+            "skill": {
+                "passing": 41,
+                "shooting": 30,
+                "tackling": 70,
+                "saving": 10,
+                "agility": 60,
+                "strength": 77,
+                "penalty_taking": 41,
+                "jumping": 261
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LM",
+            "name": "Mohamed Ali Ben Romdhane",
+            "rating": 28,
+            "skill": {
+                "passing": 54,
+                "shooting": 58,
+                "tackling": 54,
+                "saving": 35,
+                "agility": 36,
+                "strength": 56,
+                "penalty_taking": 55,
+                "jumping": 290
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Ghaylène Chaalali",
+            "rating": 60,
+            "skill": {
+                "passing": 68,
+                "shooting": 65,
+                "tackling": 45,
+                "saving": 9,
+                "agility": 68,
+                "strength": 56,
+                "penalty_taking": 61,
+                "jumping": 237
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LDM",
+            "name": "Aïssa Laïdouni",
+            "rating": 66,
+            "skill": {
+                "passing": 66,
+                "shooting": 57,
+                "tackling": 64,
+                "saving": 12,
+                "agility": 70,
+                "strength": 74,
+                "penalty_taking": 62,
+                "jumping": 248
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Hannibal Mejbri",
+            "rating": 60,
+            "skill": {
+                "passing": 63,
+                "shooting": 55,
+                "tackling": 54,
+                "saving": 8,
+                "agility": 76,
+                "strength": 53,
+                "penalty_taking": 51,
+                "jumping": 222
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CDM",
+            "name": "Ferjani Sassi",
+            "rating": 62,
+            "skill": {
+                "passing": 64,
+                "shooting": 49,
+                "tackling": 69,
+                "saving": 10,
+                "agility": 65,
+                "strength": 63,
+                "penalty_taking": 51,
+                "jumping": 257
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CDM",
+            "name": "Ellyes Skhiri",
+            "rating": 72,
+            "skill": {
+                "passing": 71,
+                "shooting": 73,
+                "tackling": 75,
+                "saving": 13,
+                "agility": 74,
+                "strength": 67,
+                "penalty_taking": 58,
+                "jumping": 261
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Anis Slimane",
+            "rating": 64,
+            "skill": {
+                "passing": 61,
+                "shooting": 60,
+                "tackling": 58,
+                "saving": 10,
+                "agility": 66,
+                "strength": 77,
+                "penalty_taking": 49,
+                "jumping": 253
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Saîf-Eddine Khaoui",
+            "rating": 64,
+            "skill": {
+                "passing": 70,
+                "shooting": 71,
+                "tackling": 47,
+                "saving": 12,
+                "agility": 74,
+                "strength": 61,
+                "penalty_taking": 49,
+                "jumping": 241
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Issam Jebali",
+            "rating": 59,
+            "skill": {
+                "passing": 58,
+                "shooting": 63,
+                "tackling": 30,
+                "saving": 8,
+                "agility": 71,
+                "strength": 74,
+                "penalty_taking": 64,
+                "jumping": 254
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CF",
+            "name": "Wahbi Khazri",
+            "rating": 67,
+            "skill": {
+                "passing": 73,
+                "shooting": 79,
+                "tackling": 38,
+                "saving": 8,
+                "agility": 77,
+                "strength": 70,
+                "penalty_taking": 83,
+                "jumping": 210
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Taha Khenissi",
+            "rating": 57,
+            "skill": {
+                "passing": 61,
+                "shooting": 70,
+                "tackling": 20,
+                "saving": 10,
+                "agility": 69,
+                "strength": 68,
+                "penalty_taking": 71,
+                "jumping": 254
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Youssef Msakni",
+            "rating": 56,
+            "skill": {
+                "passing": 66,
+                "shooting": 68,
+                "tackling": 20,
+                "saving": 11,
+                "agility": 72,
+                "strength": 55,
+                "penalty_taking": 62,
+                "jumping": 230
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LM",
+            "name": "Naïm Sliti",
+            "rating": 64,
+            "skill": {
+                "passing": 70,
+                "shooting": 71,
+                "tackling": 31,
+                "saving": 12,
+                "agility": 84,
+                "strength": 68,
+                "penalty_taking": 68,
+                "jumping": 241
+            },
+            "fitness": 100,
+            "injured": false
+        }
+    ]
+}

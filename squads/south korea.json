@@ -1,0 +1,447 @@
+{
+    "name": "south korea",
+    "players": [
+        {
+            "position": "GK",
+            "name": "Kim Seung Gyu",
+            "rating": 36,
+            "skill": {
+                "passing": 28,
+                "shooting": 24,
+                "tackling": 15,
+                "saving": 69,
+                "agility": 38,
+                "strength": 47,
+                "penalty_taking": 12,
+                "jumping": 255
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Jo Hyeon Woo",
+            "rating": 32,
+            "skill": {
+                "passing": 20,
+                "shooting": 24,
+                "tackling": 17,
+                "saving": 70,
+                "agility": 31,
+                "strength": 33,
+                "penalty_taking": 19,
+                "jumping": 245
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Song Bum Keun",
+            "rating": 31,
+            "skill": {
+                "passing": 17,
+                "shooting": 23,
+                "tackling": 12,
+                "saving": 68,
+                "agility": 31,
+                "strength": 40,
+                "penalty_taking": 15,
+                "jumping": 225
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Kim Min Jae",
+            "rating": 65,
+            "skill": {
+                "passing": 58,
+                "shooting": 36,
+                "tackling": 79,
+                "saving": 11,
+                "agility": 64,
+                "strength": 88,
+                "penalty_taking": 30,
+                "jumping": 270
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LB",
+            "name": "Kim Jin Su",
+            "rating": 64,
+            "skill": {
+                "passing": 65,
+                "shooting": 48,
+                "tackling": 67,
+                "saving": 9,
+                "agility": 82,
+                "strength": 62,
+                "penalty_taking": 49,
+                "jumping": 241
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LWB",
+            "name": "Hong Chul",
+            "rating": 69,
+            "skill": {
+                "passing": 65,
+                "shooting": 59,
+                "tackling": 64,
+                "saving": 11,
+                "agility": 86,
+                "strength": 72,
+                "penalty_taking": 51,
+                "jumping": 258
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Kim Moon Hwan",
+            "rating": 63,
+            "skill": {
+                "passing": 63,
+                "shooting": 57,
+                "tackling": 60,
+                "saving": 8,
+                "agility": 85,
+                "strength": 50,
+                "penalty_taking": 45,
+                "jumping": 229
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Yoon Jong Gyu",
+            "rating": 57,
+            "skill": {
+                "passing": 57,
+                "shooting": 41,
+                "tackling": 61,
+                "saving": 9,
+                "agility": 70,
+                "strength": 57,
+                "penalty_taking": 29,
+                "jumping": 243
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Kim Young Gwon",
+            "rating": 63,
+            "skill": {
+                "passing": 64,
+                "shooting": 47,
+                "tackling": 68,
+                "saving": 12,
+                "agility": 60,
+                "strength": 80,
+                "penalty_taking": 56,
+                "jumping": 262
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Kim Tae Hwan",
+            "rating": 68,
+            "skill": {
+                "passing": 63,
+                "shooting": 55,
+                "tackling": 66,
+                "saving": 11,
+                "agility": 83,
+                "strength": 76,
+                "penalty_taking": 56,
+                "jumping": 253
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Kwon Kyung Won",
+            "rating": 65,
+            "skill": {
+                "passing": 63,
+                "shooting": 38,
+                "tackling": 73,
+                "saving": 13,
+                "agility": 69,
+                "strength": 85,
+                "penalty_taking": 43,
+                "jumping": 265
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCB",
+            "name": "Cho Yu Min",
+            "rating": 64,
+            "skill": {
+                "passing": 59,
+                "shooting": 53,
+                "tackling": 63,
+                "saving": 9,
+                "agility": 70,
+                "strength": 77,
+                "penalty_taking": 61,
+                "jumping": 262
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CDM",
+            "name": "Jung Woo Young",
+            "rating": 58,
+            "skill": {
+                "passing": 62,
+                "shooting": 45,
+                "tackling": 55,
+                "saving": 10,
+                "agility": 62,
+                "strength": 67,
+                "penalty_taking": 46,
+                "jumping": 244
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LM",
+            "name": "Na Sang Ho",
+            "rating": 62,
+            "skill": {
+                "passing": 60,
+                "shooting": 66,
+                "tackling": 31,
+                "saving": 10,
+                "agility": 85,
+                "strength": 70,
+                "penalty_taking": 66,
+                "jumping": 253
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCM",
+            "name": "Paik Seung Ho",
+            "rating": 67,
+            "skill": {
+                "passing": 66,
+                "shooting": 62,
+                "tackling": 60,
+                "saving": 9,
+                "agility": 77,
+                "strength": 72,
+                "penalty_taking": 59,
+                "jumping": 242
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RDM",
+            "name": "Son Jun Ho",
+            "rating": 70,
+            "skill": {
+                "passing": 67,
+                "shooting": 64,
+                "tackling": 66,
+                "saving": 9,
+                "agility": 82,
+                "strength": 72,
+                "penalty_taking": 64,
+                "jumping": 248
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RW",
+            "name": "Song Min Kyu",
+            "rating": 59,
+            "skill": {
+                "passing": 58,
+                "shooting": 65,
+                "tackling": 26,
+                "saving": 10,
+                "agility": 75,
+                "strength": 73,
+                "penalty_taking": 58,
+                "jumping": 255
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RW",
+            "name": "Kwon Chang Hoon",
+            "rating": 61,
+            "skill": {
+                "passing": 63,
+                "shooting": 67,
+                "tackling": 49,
+                "saving": 9,
+                "agility": 77,
+                "strength": 49,
+                "penalty_taking": 57,
+                "jumping": 229
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CM",
+            "name": "Lee Jae Sung",
+            "rating": 66,
+            "skill": {
+                "passing": 73,
+                "shooting": 67,
+                "tackling": 57,
+                "saving": 10,
+                "agility": 85,
+                "strength": 48,
+                "penalty_taking": 50,
+                "jumping": 236
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LW",
+            "name": "Hwang Hee Chan",
+            "rating": 64,
+            "skill": {
+                "passing": 68,
+                "shooting": 71,
+                "tackling": 23,
+                "saving": 10,
+                "agility": 89,
+                "strength": 70,
+                "penalty_taking": 72,
+                "jumping": 260
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RDM",
+            "name": "Hwang In beom",
+            "rating": 65,
+            "skill": {
+                "passing": 69,
+                "shooting": 66,
+                "tackling": 51,
+                "saving": 9,
+                "agility": 81,
+                "strength": 58,
+                "penalty_taking": 42,
+                "jumping": 241
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CF",
+            "name": "Jeong Woo Yeong",
+            "rating": 59,
+            "skill": {
+                "passing": 66,
+                "shooting": 57,
+                "tackling": 34,
+                "saving": 8,
+                "agility": 87,
+                "strength": 54,
+                "penalty_taking": 50,
+                "jumping": 232
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Lee Kang In",
+            "rating": 62,
+            "skill": {
+                "passing": 74,
+                "shooting": 73,
+                "tackling": 25,
+                "saving": 11,
+                "agility": 79,
+                "strength": 59,
+                "penalty_taking": 70,
+                "jumping": 206
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Hwang Ui Jo",
+            "rating": 66,
+            "skill": {
+                "passing": 62,
+                "shooting": 79,
+                "tackling": 39,
+                "saving": 9,
+                "agility": 77,
+                "strength": 75,
+                "penalty_taking": 66,
+                "jumping": 262
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Cho Gue Sung",
+            "rating": 58,
+            "skill": {
+                "passing": 47,
+                "shooting": 63,
+                "tackling": 19,
+                "saving": 9,
+                "agility": 81,
+                "strength": 80,
+                "penalty_taking": 66,
+                "jumping": 270
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LW",
+            "name": "Heung Min Son",
+            "rating": 70,
+            "skill": {
+                "passing": 80,
+                "shooting": 88,
+                "tackling": 33,
+                "saving": 10,
+                "agility": 85,
+                "strength": 64,
+                "penalty_taking": 73,
+                "jumping": 243
+            },
+            "fitness": 100,
+            "injured": false
+        }
+    ]
+}

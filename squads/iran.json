@@ -1,0 +1,430 @@
+{
+    "name": "iran",
+    "players": [
+        {
+            "position": "GK",
+            "name": "Alireza Beiranvand",
+            "rating": 38,
+            "skill": {
+                "passing": 19,
+                "shooting": 19,
+                "tackling": 14,
+                "saving": 68,
+                "agility": 32,
+                "strength": 79,
+                "penalty_taking": 17,
+                "jumping": 250
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Hossein Hosseini",
+            "rating": 26,
+            "skill": {
+                "passing": 60,
+                "shooting": 44,
+                "tackling": 32,
+                "saving": 48,
+                "agility": 57,
+                "strength": 63,
+                "penalty_taking": 35,
+                "jumping": 295
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Seyed Payam Niazmand",
+            "rating": 37,
+            "skill": {
+                "passing": 20,
+                "shooting": 19,
+                "tackling": 13,
+                "saving": 67,
+                "agility": 39,
+                "strength": 64,
+                "penalty_taking": 12,
+                "jumping": 229
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "GK",
+            "name": "Amir Abedzadeh",
+            "rating": 41,
+            "skill": {
+                "passing": 27,
+                "shooting": 21,
+                "tackling": 14,
+                "saving": 71,
+                "agility": 53,
+                "strength": 60,
+                "penalty_taking": 11,
+                "jumping": 242
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Ramin Rezaeian",
+            "rating": 42,
+            "skill": {
+                "passing": 72,
+                "shooting": 68,
+                "tackling": 66,
+                "saving": 9,
+                "agility": 5,
+                "strength": 1,
+                "penalty_taking": 68,
+                "jumping": 188
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CB",
+            "name": "Abolfazl Jalali",
+            "rating": 25,
+            "skill": {
+                "passing": 54,
+                "shooting": 62,
+                "tackling": 36,
+                "saving": 61,
+                "agility": 58,
+                "strength": 35,
+                "penalty_taking": 50,
+                "jumping": 260
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CB",
+            "name": "Hossein Kanaani",
+            "rating": 46,
+            "skill": {
+                "passing": 26,
+                "shooting": 23,
+                "tackling": 61,
+                "saving": 9,
+                "agility": 45,
+                "strength": 75,
+                "penalty_taking": 38,
+                "jumping": 261
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCB",
+            "name": "Shoja Khalilzadeh",
+            "rating": 28,
+            "skill": {
+                "passing": 55,
+                "shooting": 52,
+                "tackling": 64,
+                "saving": 41,
+                "agility": 55,
+                "strength": 52,
+                "penalty_taking": 48,
+                "jumping": 277
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LCB",
+            "name": "Morteza Pouraliganji",
+            "rating": 64,
+            "skill": {
+                "passing": 61,
+                "shooting": 56,
+                "tackling": 69,
+                "saving": 12,
+                "agility": 62,
+                "strength": 73,
+                "penalty_taking": 49,
+                "jumping": 260
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RCB",
+            "name": "Majid Hosseini",
+            "rating": 56,
+            "skill": {
+                "passing": 49,
+                "shooting": 33,
+                "tackling": 71,
+                "saving": 11,
+                "agility": 55,
+                "strength": 73,
+                "penalty_taking": 40,
+                "jumping": 258
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RB",
+            "name": "Sadegh Moharrami",
+            "rating": 57,
+            "skill": {
+                "passing": 62,
+                "shooting": 31,
+                "tackling": 73,
+                "saving": 9,
+                "agility": 75,
+                "strength": 48,
+                "penalty_taking": 38,
+                "jumping": 253
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LB",
+            "name": "Milad Mohammadi",
+            "rating": 68,
+            "skill": {
+                "passing": 67,
+                "shooting": 61,
+                "tackling": 67,
+                "saving": 10,
+                "agility": 79,
+                "strength": 68,
+                "penalty_taking": 61,
+                "jumping": 220
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LB",
+            "name": "Ehsan Haji Safi",
+            "rating": 69,
+            "skill": {
+                "passing": 71,
+                "shooting": 69,
+                "tackling": 65,
+                "saving": 11,
+                "agility": 70,
+                "strength": 73,
+                "penalty_taking": 64,
+                "jumping": 245
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CDM",
+            "name": "Saeid Ezatolahi",
+            "rating": 62,
+            "skill": {
+                "passing": 60,
+                "shooting": 58,
+                "tackling": 62,
+                "saving": 12,
+                "agility": 57,
+                "strength": 75,
+                "penalty_taking": 50,
+                "jumping": 245
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CM",
+            "name": "Ahmad Nourollahi",
+            "rating": 23,
+            "skill": {
+                "passing": 57,
+                "shooting": 43,
+                "tackling": 37,
+                "saving": 51,
+                "agility": 52,
+                "strength": 41,
+                "penalty_taking": 42,
+                "jumping": 285
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Mohammed Ali Karimi",
+            "rating": 40,
+            "skill": {
+                "passing": 75,
+                "shooting": 39,
+                "tackling": 29,
+                "saving": 8,
+                "agility": 65,
+                "strength": 6,
+                "penalty_taking": 55,
+                "jumping": 179
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CM",
+            "name": "Roozbeh Cheshmi",
+            "rating": 61,
+            "skill": {
+                "passing": 52,
+                "shooting": 43,
+                "tackling": 59,
+                "saving": 8,
+                "agility": 69,
+                "strength": 82,
+                "penalty_taking": 41,
+                "jumping": 250
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "LM",
+            "name": "Vahid Amiri",
+            "rating": 54,
+            "skill": {
+                "passing": 58,
+                "shooting": 61,
+                "tackling": 25,
+                "saving": 11,
+                "agility": 77,
+                "strength": 53,
+                "penalty_taking": 61,
+                "jumping": 230
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RM",
+            "name": "Mehdi Torabi",
+            "rating": 58,
+            "skill": {
+                "passing": 59,
+                "shooting": 68,
+                "tackling": 25,
+                "saving": 10,
+                "agility": 85,
+                "strength": 56,
+                "penalty_taking": 58,
+                "jumping": 227
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RW",
+            "name": "Alireza Jahanbakhsh",
+            "rating": 64,
+            "skill": {
+                "passing": 67,
+                "shooting": 72,
+                "tackling": 38,
+                "saving": 9,
+                "agility": 78,
+                "strength": 66,
+                "penalty_taking": 58,
+                "jumping": 266
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RM",
+            "name": "Ali Gholizadeh",
+            "rating": 65,
+            "skill": {
+                "passing": 66,
+                "shooting": 69,
+                "tackling": 51,
+                "saving": 11,
+                "agility": 77,
+                "strength": 66,
+                "penalty_taking": 55,
+                "jumping": 256
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Saman Ghoddos",
+            "rating": 63,
+            "skill": {
+                "passing": 66,
+                "shooting": 70,
+                "tackling": 48,
+                "saving": 9,
+                "agility": 67,
+                "strength": 67,
+                "penalty_taking": 62,
+                "jumping": 235
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "CAM",
+            "name": "Sardar Azmoun",
+            "rating": 65,
+            "skill": {
+                "passing": 68,
+                "shooting": 75,
+                "tackling": 32,
+                "saving": 10,
+                "agility": 77,
+                "strength": 77,
+                "penalty_taking": 55,
+                "jumping": 276
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "ST",
+            "name": "Karim Ansarifard",
+            "rating": 63,
+            "skill": {
+                "passing": 61,
+                "shooting": 72,
+                "tackling": 40,
+                "saving": 11,
+                "agility": 72,
+                "strength": 74,
+                "penalty_taking": 75,
+                "jumping": 261
+            },
+            "fitness": 100,
+            "injured": false
+        },
+        {
+            "position": "RS",
+            "name": "Mehdi Taremi",
+            "rating": 66,
+            "skill": {
+                "passing": 72,
+                "shooting": 77,
+                "tackling": 33,
+                "saving": 10,
+                "agility": 73,
+                "strength": 78,
+                "penalty_taking": 76,
+                "jumping": 260
+            },
+            "fitness": 100,
+            "injured": false
+        }
+    ]
+}
